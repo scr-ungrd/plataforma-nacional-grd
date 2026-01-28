@@ -2,15 +2,15 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: about #home il layout home ti mette la lista di pagine
-title: Amsterdam Complexity School on Climate Change
+title: Plataforma Nacional de Gestión del Riesgo de Desastres (Plataforma GRD 2026)
 ---
 
-The **Amsterdam Complexity School on Climate Change (ACSCC)** is a one-week event where early-career researchers and non-academic stakeholders come together to work on interdisciplinary projects around climate change using complexity science as the backbone.
+The **La Plataforma Nacional de Gestión del Riesgo de Desastres (Plataforma GRD 2026)** es un evento Lorem markdownum Boreas, nam quidem altera causas ospf_transistor aderat praeponere muneris veloxque ferenti a fateri tenet esse, haustus domum. Est Perseu digitorum et utque biformis dantem repetens spolioque parvos? Bacchi requirens finire; de visi umorque; supponas posuere tenet, a viscera veniam dumque Cydoneasque lenta.
 
-The complexity school feature lectures, tutorials, and panel discussions by researchers, policymakers, representatives of NGOs, activists, and others. **The primary focus of the workshop is for participants to collaboratively tackle challenges related to climate change.** These can span the entire range from highly abstract modeling to solving a concrete problem such as designing a specific intervention or campaign. Project ideas are proposed on the first day by both researchers and non-academic stakeholders. The participants will work collaboratively on these projects throughout the week. While the most typical output of these projects will be research papers, we also encourage other forms of output, such as strategy papers, campaigns, or communication tools.
+la Plataforma GRD 2026 Lorem markdownum Boreas, nam quidem altera causas ospf_transistor aderat praeponere muneris veloxque ferenti a fateri tenet esse, haustus domum. Est Perseu digitorum et utque biformis dantem repetens spolioque parvos? Bacchi requirens finire; de visi umorque; supponas posuere tenet, a viscera veniam dumque Cydoneasque lenta.
 
-## Dates ACSCC 2026:
-- **April 27<sup>th</sup> to May 1<sup>st</sup> 2026**
+## Fechas Platforma 2026:
+- **Mayo 20--23 de 2026**
 
 ## Applications:
 - Opening of Application: November 3rd, 2025
@@ -19,7 +19,7 @@ The complexity school feature lectures, tutorials, and panel discussions by rese
 
 ## Contact
 
-Email us at: [acscc.info@protonmail.com](mailto:acscc.info@protonmail.com)
+Email us at: [info@info.gov.co](mailto:info@info.gov.co)
 
 <!---
 <center>

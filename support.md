@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Support
+title: Soporte
 ---
 
 <div style="text-align: center;">

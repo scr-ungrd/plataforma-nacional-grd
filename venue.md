@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Amsterdam Institute for Advanced Study
+title:  Sede
 ---
 
 Situated at the canal-front in Amsterdam’s beautiful city center, the workshop takes place at the [Institute for Advanced Study (IAS)](https://ias.uva.nl/).  Its two buildings, constructed during the 17th century in the classical Amsterdam style, are easily reached by foot and public transport from the accommodation and make a perfect starting point for exploring central Amsterdam. The IAS offers several cozy working rooms that are perfect for the team work at the workshop. In addition, the IAS offers a stimulating intellectual environment for our event with its many affiliated researchers across many disciplines, working to address fundamental and societal questions from a complexity perspetive.

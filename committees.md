@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Committee
+title:  Comites de la Plataforma 2026
 ---
 
 You can contact us at [acscc.info@protonmail.com](mailto:acscc.info@protonmail.com) or write us directly using the following information.

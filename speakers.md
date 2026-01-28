@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Speakers
+title:  Invitados
 ---
 
 Below you find a list of confirmed speakers. More to come!
