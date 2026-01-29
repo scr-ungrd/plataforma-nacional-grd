@@ -22,7 +22,8 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Mayo 20 -- 22 de 2026, Bogotá D.C., Colombia
+  Mayo 20 -- 22 de 2026, 
+  Bogotá D.C., Colombia
 
 # A list of keywords for your blog
 keywords:              []
@@ -30,7 +31,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/earth-svgrepo-com.svg
+logo:                  /assets/UNGRD-Vertical.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -89,7 +90,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/bogota.avif
+accent_image:          /assets/psb-bogota.avif
 accent_color:          rgb(118,194,138)
 
 # This is used for the `theme-color` meta tag,
