@@ -50,16 +50,14 @@ author:
 
 menu:
   - title: Sobre la Plataforma
-    url: /about/
+    url: /acercade/
   - title: Programa
     url:   /programa/
-  - title: Speakers
-    url:   /speakers/
   - title: Sede
     url:   /sede/
   - title: Inscripción
     url: /inscripcion/
-  - title: Postulación
+  - title: Postulación de sesiones
     url:   /postulacion/
   - title: Comités
     url:   /comites/
