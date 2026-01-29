@@ -14,7 +14,7 @@ baseurl:               /plataforma-nacional
 lang:                  es
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title: Plataforma Nacional de Gestión del Riesgo de Desastres 2026
+title: Plataforma Nacional para la Gestión del Riesgo de Desastres 2026
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -22,7 +22,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Mayo 20 -- 22 de 2026, 
+  Mayo 20 -- 22 de 2026<br>
   Bogotá D.C., Colombia
 
 # A list of keywords for your blog
@@ -35,7 +35,7 @@ logo:                  /assets/UNGRD-Vertical.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Unidad Nacional para la Gestión del Riesgo de Desastres - UNGRD
+  name:                Unidad Nacional para la Gestión del Riesgo de Desastres
   email:               info@gestiondelriesgo.gov.co
   github:              scr-ungrd
 
@@ -50,15 +50,15 @@ author:
 
 menu:
   - title: Sobre la Plataforma
-    url: /acercade/
-  - title: Programa
-    url:   /programa/
+    url: /acerca/
   - title: Sede
     url:   /sede/
   - title: Inscripción
     url: /inscripcion/
   - title: Postulación de sesiones
     url:   /postulacion/
+  - title: Programa
+    url:   /programa/
   - title: Comités
     url:   /comites/
   - title: Contacto
@@ -74,7 +74,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:            Plataforma GRD 2026. All rights reserved.
+copyright:            Plataforma GRD 2026. Todos los derechos reservados.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
