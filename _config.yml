@@ -11,7 +11,7 @@ baseurl:               /plataforma-nacional
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  sp
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title: Plataforma Nacional de Gestión del Riesgo de Desastres 2026
@@ -22,7 +22,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Mayo 20 -- 22 2026, Bogota
+  Mayo 20 -- 22 de 2026, Bogotá D.C., Colombia
 
 # A list of keywords for your blog
 keywords:              []
